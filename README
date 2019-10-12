@@ -1,0 +1,9 @@
+NAME
+	libslim - A simple image manipulation C library
+
+DESCRIPTION
+	libslim is a simple library that provides type-generic
+	macros for manipulating images.
+
+SEE ALSO
+	libcolour(7)
