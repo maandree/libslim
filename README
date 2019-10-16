@@ -1,5 +1,5 @@
 NAME
-	libslim - A simple image manipulation C library
+	libslim - Simple [C] Library for Image Manipulation
 
 DESCRIPTION
 	libslim is a simple library that provides type-generic
